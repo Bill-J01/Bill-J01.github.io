@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-04-22T16:12:27+08:00</updated><id>/feed.xml</id><entry><title type="html">Homework</title><link href="/2021/04/18/Homework.html" rel="alternate" type="text/html" title="Homework" /><published>2021-04-18T00:00:00+08:00</published><updated>2021-04-18T00:00:00+08:00</updated><id>/2021/04/18/Homework</id><content type="html" xml:base="/2021/04/18/Homework.html">&lt;h1 id=&quot;web应用软件开发实训-第二次作业-开发一个静态网站&quot;&gt;WEB应用软件开发实训-第二次作业-开发一个静态网站&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-04-22T17:21:35+08:00</updated><id>/feed.xml</id><entry><title type="html">Homework</title><link href="/2021/04/18/Homework.html" rel="alternate" type="text/html" title="Homework" /><published>2021-04-18T00:00:00+08:00</published><updated>2021-04-18T00:00:00+08:00</updated><id>/2021/04/18/Homework</id><content type="html" xml:base="/2021/04/18/Homework.html">&lt;h1 id=&quot;web应用软件开发实训-第二次作业-开发一个静态网站&quot;&gt;WEB应用软件开发实训-第二次作业-开发一个静态网站&lt;/h1&gt;
 &lt;p&gt;网站的公网网址， 网站源代码Github仓库网址&lt;/p&gt;
 &lt;h2 id=&quot;一网站目录结构&quot;&gt;一、网站目录结构&lt;/h2&gt;
 
 &lt;h2 id=&quot;二网站截图&quot;&gt;二、网站截图&lt;/h2&gt;
 
 &lt;h2 id=&quot;三实验过程&quot;&gt;三、实验过程&lt;/h2&gt;
-
-&lt;h2 id=&quot;四总结&quot;&gt;四、总结&lt;/h2&gt;</content><author><name>Bill</name></author><summary type="html">WEB应用软件开发实训-第二次作业-开发一个静态网站 网站的公网网址， 网站源代码Github仓库网址 一、网站目录结构</summary></entry><entry><title type="html">Kiwifruit</title><link href="/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00+08:00</published><updated>2018-08-22T00:00:00+08:00</updated><id>/2018/08/22/kiwifruit</id><content type="html" xml:base="/2018/08/22/kiwifruit.html">&lt;p&gt;Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
+&lt;p&gt;根据老师发在群里的全英文教程，一步一步完成实验，实验期间通过网上查询或请教同学等方法克服了实验中出现的困难，最终完成本次实验。&lt;/p&gt;
+&lt;h2 id=&quot;四总结&quot;&gt;四、总结&lt;/h2&gt;
+&lt;p&gt;在本次的实验过程中，出现的问题颇多，且出现问题的频率极高，其中大部分问题都通过上网查询的方法得到解决。在按照“Step by step tutorial”进行操作的过程中，出现的大部分问题都是源于看不懂英文文档引起的，文档中清楚写着的步骤却因为看不懂而被略过从而导致出错。&lt;/p&gt;</content><author><name>Bill</name></author><summary type="html">WEB应用软件开发实训-第二次作业-开发一个静态网站 网站的公网网址， 网站源代码Github仓库网址 一、网站目录结构</summary></entry><entry><title type="html">Kiwifruit</title><link href="/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00+08:00</published><updated>2018-08-22T00:00:00+08:00</updated><id>/2018/08/22/kiwifruit</id><content type="html" xml:base="/2018/08/22/kiwifruit.html">&lt;p&gt;Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
 berry of several species of woody vines in the genus Actinidia.&lt;/p&gt;
 
 &lt;p&gt;The most common cultivar group of kiwifruit is oval, about the size of a large
